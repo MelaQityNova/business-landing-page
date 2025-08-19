@@ -1,2 +1,2 @@
 # business-landing-page
-А business-landing-page for MelaQityNova - a company manufacturing Melanin, Chitin and New Earth (fertiliser) from BSFL. 
+А business-landing-page for MelaQityNova - a company manufacturing Melanin, Chitin and New Earth (fertiliser) from BSFL. We tackle one of the world's most pressing challenges—organic waste management—while simultaneously creating valuable products that serve growing market demands. By converting waste into wealth, we're building a circular economy that benefits both business and planet.
